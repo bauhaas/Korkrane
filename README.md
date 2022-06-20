@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Korkrane&label=views&style=flat-square)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korkrane&show_icons=true&theme=gruvbox)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korkrane&layout=compact&theme=gruvbox">
